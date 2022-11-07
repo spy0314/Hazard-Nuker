@@ -1,0 +1,12 @@
+# HazardNukerV.3
+HAZARD NUKER V.3 
+
+[ALL NEW STUFF ADDED]
+(1) NEW LOADING STARTUP
+(2) NEW GUI MENU
+(3) NITRO GEN
+
+INSTRUCTIONS 
+_____________
+
+WAIT UNTILL THE "Loading..." Screen Stops And Enjoy
